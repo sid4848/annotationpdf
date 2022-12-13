@@ -1,0 +1,13 @@
+.contentLoader {
+    margin: 2rem;
+    padding: 1.5rem;
+}
+
+.contentLoader li{
+    list-style: circle;
+    color: cornflowerblue;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin: 1rem;
+    box-sizing: border-box;
+}
